@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khonakdarigit
 - 👀 I’m interested in .Net & Unity
-- 🌱 I’m currently learning Unity 2D & api .net core
+- 🌱 I’m currently learning Unity 2D & API .net core
 - 💞️ I’m looking to collaborate on game , web or windows application
 - 📫 How to reach me khonakdaridev@gmail.com
 
