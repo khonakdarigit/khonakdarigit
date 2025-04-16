@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khonakdarigit
 - 👀 I’m interested in .Net & Unity
 - 🎮 [my 2D games in myket](https://myket.ir/developer/dev-83484)
-- 💞️ I’m looking to collaborate on game, web or windows application
 - 📫 How to reach me khonakdaridev@gmail.com
 
 <!---
